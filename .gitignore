@@ -4,3 +4,7 @@ __pycache__
 wandb/
 artifacts/
 .devcontainer
+lib
+lib64
+bin
+pyvenv.cfg
